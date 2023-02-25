@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prithwish Ghosh</h1>
+<h1 align="center">Hello 👋, I'm Prithwish Ghosh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif">
 - 📫 How to reach me **Mail-ID: ghoshprithwish586@gmail.com // phone num: 9903190961**
